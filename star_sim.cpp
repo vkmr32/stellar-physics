@@ -8,6 +8,7 @@
 
 GLFWwindow* StartGLFW();
 
+//test comment
 int main() {
     GLFWwindow* window = StartGLFW();
 
